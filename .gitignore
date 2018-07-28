@@ -1,0 +1,9 @@
+.*
+!.gitignore
+
+# Extra data
+data
+save
+
+# Python
+__pycache__

@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\code\\Anaconda\\envs\\gan\\python.exe"
+	}
+}
